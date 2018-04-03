@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+!/.minecraft/config
+!/.minecraft/mods
+!/.minecraft/resources
+!/.minecraft/scripts
+.DS_Store

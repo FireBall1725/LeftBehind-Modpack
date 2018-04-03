@@ -1,0 +1,222 @@
+[
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "exnihilocreatio:block_dust",
+      "meta": 0
+    },
+    "output": {
+      "name": "minecraft:clay",
+      "meta": 0
+    }
+  },
+  {
+    "fluidName": "lava",
+    "input": {
+      "name": "minecraft:redstone",
+      "meta": 0
+    },
+    "output": {
+      "name": "minecraft:netherrack",
+      "meta": 0
+    }
+  },
+  {
+    "fluidName": "lava",
+    "input": {
+      "name": "minecraft:glowstone_dust",
+      "meta": 0
+    },
+    "output": {
+      "name": "minecraft:end_stone",
+      "meta": 0
+    }
+  },
+  {
+    "fluidName": "witchwater",
+    "input": {
+      "name": "minecraft:sand",
+      "meta": 0
+    },
+    "output": {
+      "name": "minecraft:soul_sand",
+      "meta": 0
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 0
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 0
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 1
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 1
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 2
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 2
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 3
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 3
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 4
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 4
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 5
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 5
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 6
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 6
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 7
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 7
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 8
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 8
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 9
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 9
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 10
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 10
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 11
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 11
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 12
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 12
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 13
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 13
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 14
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 14
+    }
+  },
+  {
+    "fluidName": "water",
+    "input": {
+      "name": "minecraft:concrete_powder",
+      "meta": 15
+    },
+    "output": {
+      "name": "minecraft:concrete",
+      "meta": 15
+    }
+  }
+]

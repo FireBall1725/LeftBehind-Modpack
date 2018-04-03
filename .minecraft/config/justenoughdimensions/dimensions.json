@@ -1,0 +1,63 @@
+{
+	"dimensions": [
+		{
+			"dim": 1,
+			"override": true,
+			"dimensiontype": {
+				"keeploaded": false,
+				"worldprovider": "WorldProviderEndJED"
+			},
+			"worldinfo": {
+				"SpawnX": 0,
+				"SpawnY": 88,
+				"SpawnZ": 0
+			},
+			"jed": {
+				"SkyRenderer": "vazkii.botania.client.render.world.SkyblockSkyRenderer",
+				"CanRespawnHere": "true",
+				"RespawnDimension": "1"
+			}
+		},
+		{
+			"dim": 0,
+			"override": true,
+			"biome": "advancedrocketry:space",
+			"dimensiontype": {
+				"id": 0,
+				"keeploaded": true,
+				"worldprovider": "zmaster587.advancedRocketry.world.provider.WorldProviderSpace"
+			},
+			"worldinfo": {
+				"generatorName": "voidworld",
+				"GameRules": {
+					"doDaylightCycle": "false",
+					"doWeatherCycle": "false"
+				}
+			}
+		},
+		{
+			"dim": 5001,
+			"dimensiontype": {
+				"id": 5001,
+				"name": "Pedwana",
+				"suffix": "_dim5001",
+				"keeploaded": false,
+				"worldprovider": "WorldProviderSurfaceJED"
+			},
+			"worldinfo": {
+				"generatorName": "DEFAULT",
+				"SpawnX": 0,
+				"SpawnY": 128,
+				"SpawnZ": 0,
+				"GameRules": {
+					"doweathercycle": "false"
+				}
+			},
+			"jed": {
+				"SkyRenderer": "vazkii.botania.client.render.world.SkyblockSkyRenderer",
+				"CanRespawnHere": "true",
+				"RespawnDimension": "5001"
+			}
+		}
+	]
+}

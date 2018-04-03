@@ -1,0 +1,72 @@
+{
+  "path": "mod_mysticalagriculture/custom/prosperity_plant.json",
+  "enabled": true,
+  "id": "prosperity_shard",
+  "plant_name": "Prosperity Shard Crop",
+  "seed_name": "Base Crafting Seeds",
+  "seed_items": [
+    {
+      "item": "mysticalagriculture:crafting",
+      "meta": 16,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {},
+    "default": "Base Crafting Seeds."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 4,
+        "max": 16,
+        "chance": 1.0,
+        "required": true,
+        "item": "mysticalagriculture:crafting",
+        "meta": 5,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "cross",
+    "seed_texture": "mysticalagriculture:items/crafting_base_crafting_seed",
+    "plant_textures": [
+      "mysticalagriculture:blocks/crop0",
+      "mysticalagriculture:blocks/crop1",
+      "mysticalagriculture:blocks/crop2",
+      "mysticalagriculture:blocks/crop2",
+      "mysticalagriculture:blocks/crop3",
+      "mysticalagriculture:blocks/crop4",
+      "mysticalagriculture:blocks/crop4",
+      "mysticalagriculture:blocks/aluminum_crop"
+    ]
+  }
+}
